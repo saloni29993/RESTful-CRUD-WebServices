@@ -1,0 +1,5 @@
+com\server\crud\restws\Student.class
+com\server\crud\restws\Gradebook.class
+com\server\crud\restws\Converter.class
+com\server\crud\restws\Grade.class
+com\server\crud\restws\GradeResource.class
